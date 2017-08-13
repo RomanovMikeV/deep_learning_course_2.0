@@ -34,9 +34,9 @@ print(x)
 Если в процессе вылетит ошибка, то, скорее всего, пакет прийдется собирать из исходников
 
 Рекоммендуемая литература:
-1) Теория оптимизации Nocedal Wright "Numerical Optimization"
-https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwibs8XJhtXVAhXsHpoKHT9QCV8QFggnMAA&url=http%3A%2F%2Fwww.bioinfo.org.cn%2F~wangchao%2Fmaa%2FNumerical_Optimization.pdf&usg=AFQjCNG41Hw2uH1SCRFQgj3SvF_-uEcCGg
-2) Лекции Джоффри Хинтона 
-https://ru.coursera.org/learn/neural-networks
-3) Задания Андрея Карпаты
-http://cs231n.github.io/
+1) [Теория оптимизации Nocedal Wright "Numerical Optimization"]
+(https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwibs8XJhtXVAhXsHpoKHT9QCV8QFggnMAA&url=http%3A%2F%2Fwww.bioinfo.org.cn%2F~wangchao%2Fmaa%2FNumerical_Optimization.pdf&usg=AFQjCNG41Hw2uH1SCRFQgj3SvF_-uEcCGg)
+2) [Лекции Джоффри Хинтона]
+(https://ru.coursera.org/learn/neural-networks)
+3) [Задания Андрея Карпаты]
+(http://cs231n.github.io/)
