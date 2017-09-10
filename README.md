@@ -37,3 +37,8 @@ print(x)
 1) [Теория оптимизации Nocedal Wright "Numerical Optimization"](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwibs8XJhtXVAhXsHpoKHT9QCV8QFggnMAA&url=http%3A%2F%2Fwww.bioinfo.org.cn%2F~wangchao%2Fmaa%2FNumerical_Optimization.pdf&usg=AFQjCNG41Hw2uH1SCRFQgj3SvF_-uEcCGg)
 2) [Лекции Джоффри Хинтона](https://ru.coursera.org/learn/neural-networks)
 3) [Задания Андрея Карпаты](http://cs231n.github.io/)
+4) [Книга по Глубокому Обучению от гуру](http://www.deeplearningbook.org/)
+5) [Описание картинок предложениями](https://arxiv.org/pdf/1412.2306.pdf)
+6) [Статья про ResNet](https://arxiv.org/abs/1512.03385)
+7) [Статья про VGG](https://arxiv.org/pdf/1409.1556.pdf)
+
